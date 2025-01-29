@@ -4,7 +4,7 @@
 
 This is the third project of the "JavaScript" course within "The Odin Project".
 
-The main goal of this project is to build a basic restaurant page with various basic functionalities.[^1]
+The main goal of this project is to build a restaurant page with three different tabs that you can switch to.[^1]
 
 This app is used to practice modules, and bundling via Webpack (along with subjects introduced in previous projects).
 
