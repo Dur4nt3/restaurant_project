@@ -58,7 +58,7 @@
 
 body {
     background-color: var(--background-color);
-    height: 100dvh;
+    min-height: 100dvh;
     font-family: Montserrat, var(--font-stack);
 
     display: flex;
